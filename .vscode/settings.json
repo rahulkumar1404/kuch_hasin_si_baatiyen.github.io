@@ -1,0 +1,24 @@
+{
+    "auto-close-tag.fullMode": true,
+    "auto-close-tag.SublimeText3Mode": true,
+    "auto-close-tag.insertSpaceBeforeSelfClosingTag": true,
+    "autoimport.doubleQuotes": true,
+    "auto-rename-tag.activationOnLanguage": [
+
+        "*"
+    ],
+    "cSpell.words": [
+        "BAATIYEN",
+        "HASIN",
+        "KUCH",
+        "attachement",
+        "befoare",
+        "importantimportant",
+        "stylinh",
+        "transper",
+        "transperen",
+        "transpernc",
+        "transperncy",
+        "youtube"
+    ]
+}
